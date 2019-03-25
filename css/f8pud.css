@@ -4931,7 +4931,7 @@ html #wpadminbar {
 }
 
 .typography-heading {
-  font-size: 120%;
+  font-size: 180%;
   font-style: italic;
   font-weight: normal;
   line-height: 1.6;
@@ -6380,7 +6380,7 @@ html #wpadminbar {
 
 .jackrose-sow-about-us-grid-item-links {
   margin-top: 1.5em;
-  font-size: 16px
+  font-size: 25px
 }
 
 .jackrose-sow-about-us-grid-item-links a {
